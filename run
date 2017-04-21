@@ -1,0 +1,1 @@
+bin/runjava com.rabbitmq.perf.PerfTestMulti html/result/test-spec.js html/result/test-result.js
